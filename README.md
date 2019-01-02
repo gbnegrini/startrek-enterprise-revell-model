@@ -1,4 +1,4 @@
-# Arduino controlled light and sound effects for the USS Entprise NCC-1701 (Revell - 1/600) plastic model
+# Arduino-controlled light and sound effects for the USS Entprise NCC-1701 (Revell - 1/600) plastic model
 
 Content:
 - enterprise_sketch.ino: Arduino/C++ code. Must be uploaded to an Arduino board (Arduino Nano in this case).
